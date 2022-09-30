@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+	box-sizing: border-box;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+.aceptar{
+	background:  rgb(177, 130, 43);
+	height: 35px;
+	color: #fff;
+	width: 200px;
+	border:0.5px solid #E2E2E2FF; 
+	font-weight: bold;
+	border-radius: 7px;
+    margin-left: 60px;
+    margin-right: auto;
+	font-size: 16px;
+	cursor: pointer;
+
+}
+.input{
+	border: 1px solid #000;
+	border-radius: 5px;
+    padding: 6px;
+
+}
+
+
